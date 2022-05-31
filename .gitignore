@@ -1,0 +1,3 @@
+# o que sera ignorado pelo git
+bin
+obj
