@@ -4,3 +4,4 @@
 -somar 
 -subtrair  
 -multiplicar
+-dividir
